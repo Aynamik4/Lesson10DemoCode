@@ -53,6 +53,8 @@ namespace PolymorfismAbstractInterface
             InterfaceExample.DemoClass demo = new InterfaceExample.DemoClass();
             demo.MyMethod();
             demo.MyOtherMethod();
+
+            Console.ReadLine();
         }
     }
 }
